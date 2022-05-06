@@ -22,6 +22,8 @@ Como parte del nivel gratuito de AWS, Amazon RDS ayuda a los nuevos clientes de 
 - 20 GB de almacenamiento para sus copias de seguridad de base de datos automatizadas y cualquier instantánea de base de datos iniciada por el usuario.
 ### S3 
 Como parte del nivel gratuito de AWS, puede comenzar a utilizar Amazon S3 sin cargo. Al registrarse, los clientes nuevos de AWS reciben 5 GB de almacenamiento de Amazon S3 en la clase de almacenamiento S3 Standard, 20 000 solicitudes GET, 2000 solicitudes PUT, COPY, POST o LIST y 100 GB de transferencia de datos de salida al mes.
+### Balanceador de carga
+Elastic Load Balancing de forma gratuita con el nivel gratuito de AWS. Al registrarse, los nuevos clientes de AWS reciben 750 horas al mes compartidas entre los balanceadores de carga clásicos y de aplicaciones; 15 GB de procesamiento de datos para los balanceadores de carga clásicos y 15 LCU para los balanceadores de carga de aplicaciones.
 ## Servicios utilizados
 - EC2: Es una parte central de la plataforma de cómputo en la nube de la empresa Amazon.com denominada Amazon Web Services (AWS). EC2 permite a los usuarios alquilar computadores virtuales en los cuales pueden ejecutar sus propias aplicaciones. 
 - RDS: Amazon Relational Database Service es un servicio de base de datos relacional distribuida de Amazon Web Services. Es un servicio web que se ejecuta "en la nube" diseñado para simplificar la configuración, el funcionamiento y el escalado de una base de datos relacional para su uso en aplicaciones.
