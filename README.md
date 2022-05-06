@@ -21,9 +21,22 @@ La aplicacion cuenta con dos paginas, la primera que sera para el administrador 
 - Rekognition: Amazon Rekognition facilita la incorporación del análisis de imagen y vídeo a sus aplicaciones. Proporcione una imagen o un vídeo a la API de Amazon Rekognition y el servicio podrá identificar objetos, personas, texto, escenas y actividades. Asimismo, puede detectar cualquier contenido inadecuado. Amazon Rekognition proporciona además funcionalidades de análisis, comparación y búsqueda de rostros altamente precisas. Puede detectar, analizar y comparar rostros para una amplia variedad de casos de uso, como la verificación de usuarios, catalogación, contabilización de personas y seguridad pública.
 
 
-# asdfsdfadsfasdf
+# AWS Services
+Para el desarrollo del proyecto se diseño una arquitectura AWS completamente en la nube compuesta por:
+* Un sitio web alojado en Amazon S3
+* Un balanceador configurado en balanceadores carga de EC2
+* Dos servidores alojados en dos instancias de EC2 para el backend 
+  * Un servidor aloja una api REST desarrollada en nodejs
+  * Un servidor aloja una api REST desarrollada en python
+* Almacenamiento de información utilizando RDS y DBMS MySQL
+* Almacenamiento de imagenes a través un bucket en Amazon S3
+**USUARIOS IAM**
 ![](img/img10.png)
+Se creo un usuario Admin_S3 con permisos "AmazonS3FullAccess" para todo el manejo de S3
 ![](img/img11.png)
+Se creo un usuario Admin_Bot con permisos "AmazonLexFullAccess" para todo el manejo de los bot
 ![](img/img12.png)
+Se creo un usuario Admin_Rekognition con permisos "AmazonRekognitionFullAccess" para todo el manejo de análisis de imágenes
 ![](img/img13.png)
+**INSTANCIA RDS**
 ![](img/img14.png)
