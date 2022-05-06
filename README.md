@@ -12,6 +12,7 @@ La aplicacion cuenta con dos paginas, la primera que sera para el administrador 
 ## Arquitectura implementada
 ![](img/img15.jpeg)
 ## Presupuesto del proyecto 
+![](img/img17.jpg)
 ### EC2
 La capa gratuita de AWS incluye 750 horas de instancias t2.micro de Linux y Windows, (t3.micro para las regiones en las que t2.micro no está disponible) cada mes durante un año. 
 
