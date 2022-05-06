@@ -50,4 +50,4 @@ Se creo un usuario Admin_Rekognition con permisos "AmazonRekognitionFullAccess" 
 **INSTANCIA RDS**
 ![](img/img14.png)
 **ER**
-![](img/img16.jpeg)
+![](img/img16.jpg)
