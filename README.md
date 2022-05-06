@@ -10,7 +10,7 @@ Wante[D]etector es una app que permite buscar personas a tiempo real a partir de
 La aplicacion cuenta con dos paginas, la primera que sera para el administrador en donde se pueden gestionar los criminales, sus descripciones, recompensas, peligrosidad y cara, y la otra que es donde se pueden ver estos registros guardados.
 
 ## Arquitectura implementada
-![](img/img15.png)
+![](img/img15.jpeg)
 ## Presupuesto del proyecto 
 
 ## Servicios utilizados
