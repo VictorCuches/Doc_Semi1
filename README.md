@@ -20,15 +20,7 @@ La aplicacion cuenta con dos paginas, la primera que sera para el administrador 
 - IAM: AWS Identity and Access Management (IAM) es un servicio web que lo ayuda a controlar de forma segura el acceso a los recursos de AWS. Utilice IAM; para controlar quién está autenticado (ha iniciado sesión) y autorizado (tiene permisos) para utilizar recursos.
 - Rekognition: Amazon Rekognition facilita la incorporación del análisis de imagen y vídeo a sus aplicaciones. Proporcione una imagen o un vídeo a la API de Amazon Rekognition y el servicio podrá identificar objetos, personas, texto, escenas y actividades. Asimismo, puede detectar cualquier contenido inadecuado. Amazon Rekognition proporciona además funcionalidades de análisis, comparación y búsqueda de rostros altamente precisas. Puede detectar, analizar y comparar rostros para una amplia variedad de casos de uso, como la verificación de usuarios, catalogación, contabilización de personas y seguridad pública.
 
-![](img/img1.jpeg)
-![](img/img2.jpeg)
-![](img/img3.jpeg)
-![](img/img4.jpeg)
-![](img/img5.jpeg)
-![](img/img6.jpeg)
-![](img/img7.jpeg)
-![](img/img8.jpeg)
-![](img/img9.jpeg)
+
 # asdfsdfadsfasdf
 ![](img/img10.png)
 ![](img/img11.png)
